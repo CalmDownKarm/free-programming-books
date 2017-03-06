@@ -8,6 +8,7 @@
   * [Méthodes de développment](#méthodes-de-développement)
   * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
   * [Théorie des langages](#théorie-des-langages)
+* [Ada](#ada)
 * [Arduino](#arduino)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
@@ -37,6 +38,7 @@
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
+* [Systèmes d'exploitation](#systemes-d-exploitation)
 * [TEI](#TEI)
 * [Vim](#vim)
 
@@ -82,9 +84,10 @@
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 
 
-#### Théorie des langages
+### Ada
 
-* [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) - Université de Bretagne Occidentale (PDF)
+* [Cours Ada](http://d.feneuille.free.fr/cours-ada-iut.zip) - Daniel Feneuille (Support d'un cours enseigné à l'IUT d'Aix-en-Provence) (ZIP)
+* [Cours Ada 95 pour le programmeur C++](http://d.feneuille.free.fr/c++%20to%20ada%201.0a.pdf) - Quentin Ochem (PDF)
 
 
 ### Arduino
@@ -156,8 +159,7 @@
 
 #### LaTeX
 
-* [Détecter et résoudre les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du LaTeX Companion 2006, par Frank Mittelbach et Michel Goossens, mis à disposition par l'éditeur dans l'onglet « Compléments »
-* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) - Arnaud Gazagnes (PDF)
+* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths3.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
 
@@ -171,6 +173,11 @@
 
 * [Tracer des graphes avec Metapost](http://melusine.eu.org/syracuse/metapost/f-mpgraph.pdf) - John D. Hobby (PDF)
 * [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf) - John D. Hobby (PDF)
+
+
+#### Pharo
+
+* [Pharo par l'Exemple](http://pharobyexample.org/fr/)
 
 
 #### PGF/TikZ
@@ -217,7 +224,6 @@
 ### Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
-* [Dropbox a des fuites ! Un aperçu de la rétro-ingénierie des programmes Python](http://pdp.microjoe.org/tutoriels/280/dropbox-a-des-fuites/)
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
 
@@ -240,7 +246,7 @@
 
 ### Sage
 
-* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr) - A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann
+* [Calcul mathématique avec Sage](https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf) - A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann (PDF)
 
 
 ### Scilab
@@ -251,6 +257,11 @@
 ### SPIP
 
 * [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
+
+
+### Systèmes d'exploitation
+
+* [Simple OS (SOS)](http://sos.enix.org/fr/SOSDownload) - David Decotigny et Thomas Petazzoni
 
 
 ### TEI
